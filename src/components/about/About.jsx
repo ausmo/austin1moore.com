@@ -38,7 +38,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita mollitia blanditiis animi harum! Maiores tempore ea, corporis, quidem deleniti itaque nobis unde dolores nesciunt exercitationem suscipit laboriosam reiciendis dolor autem.
+            I started learning code in April '22 and love it so far. I'm looking forward to starting a career in web development and learning new skills every day.'
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
