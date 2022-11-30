@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3358709.css",
+    "main.js": "/static/js/main.f1eb7d30.js",
+    "static/media/ISS.png": "/static/media/ISS.6c4ef7b112210f3636a9.png",
+    "static/media/sCprofile.png": "/static/media/sCprofile.8577a776a9506897c164.png",
+    "static/media/me.jpg": "/static/media/me.c1f243423c5a9c30cb0d.jpg",
+    "static/media/me3.jpg": "/static/media/me3.7fb771449fd35a318f36.jpg",
+    "static/media/CV.pdf": "/static/media/CV.bca31dbb1e6354d17fd5.pdf",
+    "static/media/beerbuddies1.png": "/static/media/beerbuddies1.8526c9da20e36519f5fb.png",
+    "index.html": "/index.html",
+    "main.d3358709.css.map": "/static/css/main.d3358709.css.map",
+    "main.f1eb7d30.js.map": "/static/js/main.f1eb7d30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3358709.css",
+    "static/js/main.f1eb7d30.js"
+  ]
+}
